@@ -6,7 +6,8 @@
 - [Motivação do Projeto](#motivacao)
 - [Prerequisites](#prereq)
 - [Installing NodeJs](#instalnodejs)
-- [Uso e Demonstração da aplicação](../CONTRIBUTING.md)
+- [Uso e Demonstração da aplicação](#demo)
+- [Contribuição e Links de pesquisa](#contribuicao)
 
 ## Motivação do Projeto <a name = "motivacao"></a>
 
@@ -52,3 +53,17 @@ Com isso, o npm estará pronto para ser usado no seu sistema Windows. Agora voc�
 ## Uso e Demonstração da aplicação <a name = "demo"></a>
 
 Add notes about how to use the system.
+
+## Contribuição e Links de pesquisa <a name = "contribuicao"></a>
+
+- sintaxe do readme
+
+```
+https://docs.github.com/pt/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
+```
+
+- Libs do Node, com suporte oficial e não oficial
+
+```
+https://prometheus.io/docs/instrumenting/clientlibs/
+```
